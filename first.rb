@@ -1,4 +1,4 @@
 def my_method(n)
-  return n**1
+  puts n**2
 end
 my_method(4)
