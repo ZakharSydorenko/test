@@ -1,4 +1,5 @@
 def my_method(n)
-  puts n**2
+  a = n**2
+  print a
 end
 my_method(4)
