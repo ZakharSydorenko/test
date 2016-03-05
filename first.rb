@@ -1,0 +1,2 @@
+a = "fkmvkf"
+puts a
